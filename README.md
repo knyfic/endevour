@@ -34,8 +34,6 @@ desktop
 <br>
 <br>kitty terminal for https://github.com/dexpota/kitty-themes
 <br>![preview](https://user-images.githubusercontent.com/109595809/185767345-0dd862a7-b14a-4bf6-934a-89a7de283d6e.png)
-<br>
-<br>![output-onlineasciitools(1)](https://user-images.githubusercontent.com/109595809/185767375-9fe45f3d-81a4-4742-a120-182385a0d3c6.png)
 
 
 
