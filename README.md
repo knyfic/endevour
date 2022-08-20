@@ -1,5 +1,5 @@
-# endevour
-my linux desktop 
+# arch L.
+desktop
 <br> 
 <br> windows manager ``i3wm``
 <br>bar ``polybar``
@@ -21,7 +21,7 @@ my linux desktop
 <br>
 <br>
 <br>
-    |\__/,|   (`\
-  _.|o o  |_   ) )
--(((---(((--------
+<br>   |\__/,|   (`\
+<br>  _.|o o  |_   ) )
+<br> -(((---(((--------
 
