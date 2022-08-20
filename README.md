@@ -20,21 +20,22 @@ desktop
 <br>
 <br>
 <br>polybar
-<br>![2022-08-21_00-39](https://user-images.githubusercontent.com/109595809/185767051-f6da317e-2055-4a91-9e51-22636f39b1b4.png)
+<br![2022-08-21_00-39](https://user-images.githubusercontent.com/109595809/185767104-2de9b723-8f10-43b5-a08c-4f90d461a4b3.png)
+
 
 <br>
 <br>
 <br>dunst
-<br>![image](https://user-images.githubusercontent.com/109595809/185766452-a12a3334-56ea-4354-9f9a-8b74efe4293d.png)
+<br>
 
 <br>
 <br>
 <br>rofi app menu
-<br>![image](https://user-images.githubusercontent.com/109595809/185766535-fdd9cb03-ec32-487f-8813-87dcc4356618.png)
+<br>
 
 <br>
 <br>
 <br>kitty terminal
-<br>![image](https://user-images.githubusercontent.com/109595809/185767034-69cc1d36-822d-4e30-af07-f90c2ee36bd1.png)
+<br>
 
 <br>
