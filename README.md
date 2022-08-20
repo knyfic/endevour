@@ -31,8 +31,10 @@ desktop
 <br>![2022-08-21_00-25](https://user-images.githubusercontent.com/109595809/185767306-3954bbe2-1ca7-4000-8216-1918a4de654c.png)
 <br>
 <br>
-<br>kitty terminal for https://github.com/dexpota/kitty-themes
+<br>kitty terminal by https://github.com/dexpota/kitty-themes
 <br>![preview](https://user-images.githubusercontent.com/109595809/185767409-f8a7fa61-95f1-4ea2-8a21-2d1509f5a310.png)
+<br>
+<br>
 <br>
 <br>![output-onlineasciitools(1)](https://user-images.githubusercontent.com/109595809/185767419-879d9c3e-c62d-4653-b8d4-7a8444cd236f.png)
 
