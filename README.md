@@ -20,8 +20,6 @@ desktop
 <br>
 <br>
 <br>
-<br>    |\__/,|   ('\
-<br>  _.|o o  |_   ) )
-<br>-(((---(((--------
 <br>
 <br>
+![output-onlineasciitools](https://user-images.githubusercontent.com/109595809/185766395-412ff863-c6ee-4700-ac27-bc0f36da9b5d.png)
