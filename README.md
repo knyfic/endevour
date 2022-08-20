@@ -2,7 +2,6 @@
 my linux desktop 
 <br> 
 <br> windows manager ``i3wm``
-<br>menu ``rofi``
 <br>bar ``polybar``
 <br>terminal ``kitty``
 <br>notfication app ``dunst``
