@@ -20,13 +20,13 @@ desktop
 <br>
 <br>
 <br>polybar
-<br>![2022-08-21_00-39](https://user-images.githubusercontent.com/109595809/185767104-2de9b723-8f10-43b5-a08c-4f90d461a4b3.png)
+<br>![image](https://user-images.githubusercontent.com/109595809/185767104-2de9b723-8f10-43b5-a08c-4f90d461a4b3.png)
 
 
 <br>
 <br>
 <br>dunst
-<br>![2022-08-21_00-25](https://user-images.githubusercontent.com/109595809/185767124-737f0a93-2f35-435a-9ad9-c06446ebe21c.png)
+<br>![image](https://user-images.githubusercontent.com/109595809/185767124-737f0a93-2f35-435a-9ad9-c06446ebe21c.png)
 
 
 <br>
