@@ -32,8 +32,8 @@ desktop
 <br>
 <br>
 <br>kitty terminal by https://github.com/dexpota/kitty-themes
-<br>![image](https://user-images.githubusercontent.com/109595809/185805628-27e427eb-9eb1-4f6a-ae42-1dce22d6309f.png)
-![preview(2)](https://user-images.githubusercontent.com/109595809/185805706-005b1559-1a9b-4a2f-9906-fe36b45add26.png)
+<br>![image](https://user-images.githubusercontent.com/109595809/185805628-27e427eb-9eb1-4f6a-ae42-1dce22d6309f.png)![preview(2)](https://user-images.githubusercontent.com/109595809/185805706-005b1559-1a9b-4a2f-9906-fe36b45add26.png)
+
 
 <br>
 <br>
