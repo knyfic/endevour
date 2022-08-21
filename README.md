@@ -17,7 +17,6 @@ desktop
 <br>
 <br>
 <br>![2022-08-21_00-12](https://user-images.githubusercontent.com/109595809/185806744-5b8999a4-4bdd-415c-998b-eb15ebbc54c6.png)
-
 <br>
 <br>
 <br>polybar
