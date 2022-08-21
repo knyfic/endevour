@@ -16,7 +16,7 @@ desktop
 <br>
 <br>
 <br>
-<br>![image](https://user-images.githubusercontent.com/109595809/185766147-08cb2688-59f1-4327-96ad-f9dfb60600b6.png)
+<br>![preview(2)](https://user-images.githubusercontent.com/109595809/185805706-005b1559-1a9b-4a2f-9906-fe36b45add26.png)
 <br>
 <br>
 <br>polybar
