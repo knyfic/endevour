@@ -1,8 +1,7 @@
 # arch L.
 desktop
 <br> 
-<br> windows manager ``i3wm``              ![2022-08-21_00-12](https://user-images.githubusercontent.com/109595809/185805894-9f0d8abf-82e8-433e-9af0-afcd5eb2d896.png)
-        
+<br> windows manager ``i3wm``                   
 <br>bar ``polybar``
 <br>terminal ``kitty``
 <br>notfication app ``dunst``
