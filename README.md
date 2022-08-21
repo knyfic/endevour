@@ -33,5 +33,6 @@ desktop
 <br>
 <br>kitty terminal by https://github.com/dexpota/kitty-themes
 <br>![image](https://user-images.githubusercontent.com/109595809/185805628-27e427eb-9eb1-4f6a-ae42-1dce22d6309f.png)![preview(2)](https://user-images.githubusercontent.com/109595809/185805706-005b1559-1a9b-4a2f-9906-fe36b45add26.png)
-<br>![output-onlineasciitools(1)](https://user-images.githubusercontent.com/109595809/185767419-879d9c3e-c62d-4653-b8d4-7a8444cd236f.png)
+<br>![output-onlineasciitools(1)(1)](https://user-images.githubusercontent.com/109595809/185805806-4b71d128-1968-4e72-a365-e6f12a7cbc82.png)
+
 
