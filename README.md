@@ -33,6 +33,7 @@ desktop
 <br>
 <br>kitty terminal by https://github.com/dexpota/kitty-themes
 <br>![preview(1)](https://user-images.githubusercontent.com/109595809/185805568-d1a86877-7477-4645-a914-2b55a547d4f9.png)
+![image](https://user-images.githubusercontent.com/109595809/185805628-27e427eb-9eb1-4f6a-ae42-1dce22d6309f.png)
 
 <br>
 <br>
