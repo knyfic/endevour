@@ -19,6 +19,9 @@ desktop
 <br>![2022-08-21_00-12](https://user-images.githubusercontent.com/109595809/185806744-5b8999a4-4bdd-415c-998b-eb15ebbc54c6.png)
 <br>
 <br>
+<br>another example
+<br>![resim](https://user-images.githubusercontent.com/109595809/195414500-20e26d04-296c-4beb-82c4-ed9a56390448.png)
+<br>
 <br>polybar
 <br>![image](https://user-images.githubusercontent.com/109595809/185767104-2de9b723-8f10-43b5-a08c-4f90d461a4b3.png)
 <br>
